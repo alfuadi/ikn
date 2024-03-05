@@ -1,0 +1,5 @@
+streamlit
+pandas==2.1.4
+streamlit_folium
+folium
+datetime
