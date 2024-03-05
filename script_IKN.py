@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
-from streamlit_folium import folium_static
 import folium
+from streamlit_folium import folium_static
 from datetime import datetime
 
 # Membaca data dari URL
